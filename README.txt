@@ -1,1 +1,4 @@
 This one I wrote at the 2nd year of studies. It allows user to code/decode a written morse code to latin alphabet and latin alphabet into morse code. It also allows user to decode .wav files from morse code to latin alphabet, but there is no thresholding or any other noice detection, which means that this functionality works only for not noisy files.
+
+you can generate that kind of files from link below:
+https://www.meridianoutpost.com/resources/etools/calculators/calculator-morse-code.php?
