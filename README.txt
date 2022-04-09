@@ -1,0 +1,1 @@
+This one I wrote at the 2nd year of studies. It allows user to code/decode a written morse code to latin alphabet and latin alphabet into morse code. It also allows user to decode some of .wav files from morse code to latin alphabet, but there is no thresholding and other noice detection, which means that this functionality works only for not noisy files.
